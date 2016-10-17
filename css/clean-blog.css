@@ -4,7 +4,6 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 body {
-  background-color: #E6E6FA
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
   color: #333333;
@@ -361,7 +360,7 @@ form .row:first-child .floating-label-form-group {
   font-weight: 800;
   letter-spacing: 1px;
   padding: 15px 25px;
-  background-color: white;
+  background-color: Blue Grey;
   border-radius: 0;
 }
 .pager li > a:hover,
